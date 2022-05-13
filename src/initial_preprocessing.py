@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 
-df_raw=pd.read_csv('../data/raw/Reviews.csv')
+df_raw=pd.read_csv('../data/raw/Reviews.csv.gz', compression='gzip')
 
 #Checking for nulls
 
