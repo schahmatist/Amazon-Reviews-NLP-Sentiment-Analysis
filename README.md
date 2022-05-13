@@ -8,6 +8,14 @@
 
 ### WHAT'S IN THE REPOSITORY?
 
+#### reports *(presentations)*
+
+
+* [non-technical-presentation.pdf](https://github.com/schahmatist/Amazon_Reviews_Sentiment_Analysys/blob/main/reports/non-technical-presentation.pdf) - A presentation for non-techincal stakeholders about the project and its potential business usage
+
+* [technical-summary.pdf](https://github.com/schahmatist/Amazon_Reviews_Sentiment_Analysys/blob/main/reports/technical-summary.pdf) - The same information as in this README.md but in .pdf format
+
+
 #### notebooks 
 
 
@@ -17,7 +25,7 @@
 
 * [Modeling.ipynb](https://github.com/schahmatist/Amazon_Reviews_Sentiment_Analysys/blob/main/notebooks/Modeling.ipynb) - Modeling - Iterative approach, progress from the first to the best model  
 
-* [Load_model_and_data.ipynb](https://github.com/schahmatist/Amazon_Reviews_Sentiment_Analysys/blob/main/notebooks/Load_model_and_data.ipynb) - Optionally, you can load pickled models and data to save time on training
+* [Load_model_and_data.ipynb](https://github.com/schahmatist/Amazon_Reviews_Sentiment_Analysys/blob/main/notebooks/Load_model_and_data.ipynb) - Optionally, you can load pickled models and preproessed data to save time on training
 <br>
 <br>
 
@@ -25,11 +33,11 @@
 #### src
 
 
-* [import_libraries.py](https://github.com/schahmatist/Amazon_Reviews_Sentiment_Analysys/blob/main/src/import_functions.py) - importing requred sklearn, nltk, pandas, numpy, and other libraries  
+* [import_libraries.py](https://github.com/schahmatist/Amazon_Reviews_Sentiment_Analysys/blob/main/src/import_functions.py) - Importing requred sklearn, nltk, pandas, numpy, and other libraries  
 
-* [initial_preprocessing.py](https://github.com/schahmatist/Amazon_Reviews_Sentiment_Analysys/blob/main/src/import_functions.py) - initial loading and very basic pre-proccessing of the data
+* [initial_preprocessing.py](https://github.com/schahmatist/Amazon_Reviews_Sentiment_Analysys/blob/main/src/import_functions.py) - Initial loading and very basic pre-proccessing of the data
 
-* [import_functions.py](https://github.com/schahmatist/Amazon_Reviews_Sentiment_Analysys/blob/main/src/import_functions.py) - importing custom functions 
+* [import_functions.py](https://github.com/schahmatist/Amazon_Reviews_Sentiment_Analysys/blob/main/src/import_functions.py) - Importing custom functions 
 
 * [preproc_pipe.py](https://github.com/schahmatist/Amazon_Reviews_Sentiment_Analysys/blob/main/src/import_functions.py) - Building a preproc pipeline with custom classes and functions as described in [Preprocessing_Pipe.ipynb](https://github.com/schahmatist/Amazon_Reviews_Sentiment_Analysys/blob/main/notebooks/Preprocessing_Pipe.ipynb)
 <br>
@@ -38,9 +46,9 @@
 
 #### data
 
-* **raw** - contains Reviews.csv.gz
-* **preprocessed** - contains df.pkl.gz, prep_test_X.npz, prep_train_X.npz. These optionally can be loaded in [Load_model_and_data.ipynb](https://github.com/schahmatist/Amazon_Reviews_Sentiment_Analysys/blob/main/notebooks/Load_model_and_data.ipynb)
-* **supplementary** - contains webster.json to check the spelling of words
+* **raw** - Contains Reviews.csv.gz
+* **preprocessed** - Contains df.pkl.gz, prep_test_X.npz, prep_train_X.npz. These optionally can be loaded in [Load_model_and_data.ipynb](https://github.com/schahmatist/Amazon_Reviews_Sentiment_Analysys/blob/main/notebooks/Load_model_and_data.ipynb)
+* **supplementary** - Contains webster.json to check the spelling of words
 ***
 
 ***
