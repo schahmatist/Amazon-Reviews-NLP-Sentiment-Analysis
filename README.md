@@ -19,7 +19,7 @@
 #### notebooks 
 
 
-* [EDA.ipynb](https://github.com/schahmatist/Amazon_Reviews_Sentiment_Analysys/blob/main/notebooks/EDA.ipynb) - Exploring the Data before cleating a model  
+* [EDA.ipynb](https://github.com/schahmatist/Amazon_Reviews_Sentiment_Analysys/blob/main/notebooks/EDA.ipynb) - Exploring the Data before creating a model  
 
 * [Preprocessing_Pipe.ipynb](https://github.com/schahmatist/Amazon_Reviews_Sentiment_Analysys/blob/main/notebooks/Preprocessing_Pipe.ipynb) - Pre-processing data as a part of sklearn pipeline  
 
@@ -33,9 +33,9 @@
 #### src
 
 
-* [import_libraries.py](https://github.com/schahmatist/Amazon_Reviews_Sentiment_Analysys/blob/main/src/import_functions.py) - Importing requred sklearn, nltk, pandas, numpy, and other libraries  
+* [import_libraries.py](https://github.com/schahmatist/Amazon_Reviews_Sentiment_Analysys/blob/main/src/import_functions.py) - Importing required sklearn, nltk, pandas, numpy, and other libraries  
 
-* [initial_preprocessing.py](https://github.com/schahmatist/Amazon_Reviews_Sentiment_Analysys/blob/main/src/import_functions.py) - Initial loading and very basic pre-proccessing of the data
+* [initial_preprocessing.py](https://github.com/schahmatist/Amazon_Reviews_Sentiment_Analysys/blob/main/src/import_functions.py) - Initial loading and very basic pre-processing of the data
 
 * [import_functions.py](https://github.com/schahmatist/Amazon_Reviews_Sentiment_Analysys/blob/main/src/import_functions.py) - Importing custom functions 
 
@@ -79,7 +79,7 @@
 ### NEW FEATURES
 
 Lots of features were considered for training the model ( including  
-use of smiles, dots, and varius punctuation in a review )  
+use of smiles, dots, and various punctuation in a review )  
 
 #### The following features were chosen:
 
@@ -105,7 +105,7 @@ Voting Ensemble of:
 
 ### EVALUATION
 
-* Accuracy of 95.3 was acheived
+* Accuracy of 95.3 was achieved
 ***
 **More detailed evaluation metrics:**
 
