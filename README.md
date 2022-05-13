@@ -31,12 +31,15 @@
 * [import_libraries.py](https://github.com/schahmatist/Amazon_Reviews_Sentiment_Analysys/blob/main/src/import_functions.py) - importing requred sklearn, nltk, pandas, numpy, and other libraries  
 <br>
 <br>
+
 * [initial_preprocessing.py](https://github.com/schahmatist/Amazon_Reviews_Sentiment_Analysys/blob/main/src/import_functions.py) - initial loading and very basic pre-proccessing of the data
 <br>
 <br>
+
 * [import_functions.py](https://github.com/schahmatist/Amazon_Reviews_Sentiment_Analysys/blob/main/src/import_functions.py) - importing custom functions 
 <br>
 <br>
+
 * [preproc_pipe.py](https://github.com/schahmatist/Amazon_Reviews_Sentiment_Analysys/blob/main/src/import_functions.py) - Building a preproc pipeline with custom classes and functions as described in [Preprocessing_Pipe.ipynb](https://github.com/schahmatist/Amazon_Reviews_Sentiment_Analysys/blob/main/notebooks/Preprocessing_Pipe.ipynb)
 <br>
 <br>
