@@ -12,17 +12,14 @@
 
 
 * [EDA.ipynb](https://github.com/schahmatist/Amazon_Reviews_Sentiment_Analysys/blob/main/notebooks/EDA.ipynb) - Exploring the Data before cleating a model  
-<br>
 
 * [Preprocessing_Pipe.ipynb](https://github.com/schahmatist/Amazon_Reviews_Sentiment_Analysys/blob/main/notebooks/Preprocessing_Pipe.ipynb) - Pre-processing data as a part of sklearn pipeline  
-<br>
 
 * [Modeling.ipynb](https://github.com/schahmatist/Amazon_Reviews_Sentiment_Analysys/blob/main/notebooks/Modeling.ipynb) - Modeling - Iterative approach, progress from the first to the best model  
-<br>
 
 * [Load_model_and_data.ipynb](https://github.com/schahmatist/Amazon_Reviews_Sentiment_Analysys/blob/main/notebooks/Load_model_and_data.ipynb) - Optionally, you can load pickled models and data to save time on training
-
-
+<br>
+<br>
 
 
 #### src
