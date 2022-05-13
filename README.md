@@ -19,7 +19,7 @@
 #### notebooks 
 
 
-* [EDA.ipynb](https://github.com/schahmatist/Amazon_Reviews_Sentiment_Analysys/blob/main/notebooks/EDA.ipynb) - Exploring the Data before creating a model  
+* [EDA.ipynb](https://github.com/schahmatist/Amazon_Reviews_Sentiment_Analysys/blob/main/notebooks/EDA.ipynb) - Exploring data before creating a model  
 
 * [Preprocessing_Pipe.ipynb](https://github.com/schahmatist/Amazon_Reviews_Sentiment_Analysys/blob/main/notebooks/Preprocessing_Pipe.ipynb) - Pre-processing data as a part of sklearn pipeline  
 
