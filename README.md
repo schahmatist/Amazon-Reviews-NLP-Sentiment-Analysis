@@ -25,7 +25,7 @@
 
 * [Modeling.ipynb](https://github.com/schahmatist/Amazon_Reviews_Sentiment_Analysys/blob/main/notebooks/Modeling.ipynb) - Modeling - Iterative approach, progress from the first to the best model  
 
-* [Load_model_and_data.ipynb](https://github.com/schahmatist/Amazon_Reviews_Sentiment_Analysys/blob/main/notebooks/Load_model_and_data.ipynb) - Optionally, you can load pickled models and preproessed data to save time on training
+* [Load_model_and_data.ipynb](https://github.com/schahmatist/Amazon_Reviews_Sentiment_Analysys/blob/main/notebooks/Load_model_and_data.ipynb) - Optionally, you can load pickled models and preprocessed data to save time on training
 <br>
 <br>
 
