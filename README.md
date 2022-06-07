@@ -48,7 +48,7 @@
 
 * **raw** - Contains Reviews.csv.gz
 * **preprocessed** - Contains df.pkl.gz, prep_test_X.npz, prep_train_X.npz. These optionally can be loaded in [Load_model_and_data.ipynb](https://github.com/schahmatist/Amazon_Reviews_Sentiment_Analysys/blob/main/notebooks/Load_model_and_data.ipynb)
-* **supplementary** - Contains webster.json to check the spelling of words
+* **supplementary** - Contains webster.json to check words spelling
 ***
 
 ***
